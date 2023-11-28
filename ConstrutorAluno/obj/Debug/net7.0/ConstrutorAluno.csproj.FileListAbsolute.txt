@@ -1,0 +1,4 @@
+C:\Users\reinaldo\Documents\PooNoite\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reinaldo\Documents\PooNoite\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\reinaldo\Documents\PooNoite\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\reinaldo\Documents\PooNoite\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
