@@ -1,0 +1,14 @@
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\bin\Debug\net6.0\ArrayProduto.exe
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\bin\Debug\net6.0\ArrayProduto.deps.json
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\bin\Debug\net6.0\ArrayProduto.runtimeconfig.json
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\bin\Debug\net6.0\ArrayProduto.dll
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\bin\Debug\net6.0\ArrayProduto.pdb
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfoInputs.cache
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfo.cs
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.dll
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\refint\ArrayProduto.dll
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.pdb
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ArrayProduto.genruntimeconfig.cache
+C:\Users\reinaldo\Documents\POONoiteProf\ArrayProduto\obj\Debug\net6.0\ref\ArrayProduto.dll
